@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="LogisticsApi.API/LogisticsApi.API.csproj" />
+  <Project Path="LogisticsApi.DAL/LogisticsApi.DAL.csproj" />
+</Solution>
